@@ -117,3 +117,7 @@ To keep the repository organized, the following layout is recommended:
     ├── Single_cell_fret.py #Contains all scripts for single-cell FRET extraction
 
 ```
+
+# 6. Microscopy Data
+
+Data used in the paper are available from the BioImage Archive, project number S_BIAD1827.
