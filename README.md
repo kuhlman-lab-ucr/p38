@@ -21,3 +21,5 @@ It includes:
 # 2. Requirements
 
 Please see each individual Repository for additional information.
+
+Expected run times for all code are generally negligible, and at most a few minutes.
