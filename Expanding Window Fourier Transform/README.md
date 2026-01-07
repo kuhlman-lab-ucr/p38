@@ -5,7 +5,7 @@ This repository contains scripts, notes, and data for calculating Fourier spectr
 
 # 1. Overview
 
-This repository contains the analysis pipeline used for RNAseq Analysis.  
+This repository contains the analysis pipeline used for Fourier analysis.  
 It includes:
 
 1. Expanding Window Fourier Transform.ipynb — Python notebook for Fourier analysis
