@@ -25,14 +25,14 @@ You need:
 
 # 3. Installation
 
-Code provided is not an executable and does not require installation. Load and execute code in Matlab
+Code provided is not an executable and does not require installation. Load and execute code in Matlab environment. 
  
 ---
 
 
 # 4. Running Matlab code
 
-Change the path for gene_count2.xlsx to that on your local machine, and execute code.
+Change the path for gene_count2.xlsx to that on your local machine, and execute code. Example output of the script is provided as the Matlab workspace RNAseq_workspace.mat.
 
 ---
 
